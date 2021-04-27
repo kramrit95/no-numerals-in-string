@@ -1,0 +1,1 @@
+# no-numerals-in-string
